@@ -1,7 +1,7 @@
 {
     "name": "Tria",
     "description": "Self-custodial neobank unifying spend, trade, and earn. Lowest fees across 150+ countries. Supercharged by BestPath.",
-    "image": "xxxxxx",
+    "image": "https://raw.githubusercontent.com/rickverse100/Synapse/refs/heads/main/Init/tria.png",
     "symbol": "TRIA",
     "decimals": "9"
 }

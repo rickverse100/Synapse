@@ -1,7 +1,7 @@
 {
     "name": "ZER0",
     "description": "ZER0 - Tor-enabled privacy browser with token rewards",
-    "image": "xxxxxx",
+    "image": "https://raw.githubusercontent.com/rickverse100/Synapse/refs/heads/main/Init/zero.png",
     "symbol": "zero",
     "decimals": "9"
 }
