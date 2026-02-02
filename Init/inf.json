@@ -1,0 +1,7 @@
+{
+    "name": "Inference",
+    "description": "Inference Labs is a Web3 platform that leverages zero-knowledge cryptography to decentralize and optimize AI models, ensuring transparency and security. Its Proof-of-Inference and ZK proofs allow miners to provide predictions and ensure computational integrity, while confirming their predictions were run on a specific model directly on the blockchain.",
+    "image": "https://raw.githubusercontent.com/rickverse100/Synapse/refs/heads/main/Init/inf.png",
+    "symbol": "INF",
+    "decimals": "9"
+}
