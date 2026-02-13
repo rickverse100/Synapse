@@ -2,6 +2,6 @@
     "name": "VOXEL",
     "description": "VOXEL is a GameFi application that combines 3D NFT collecting with play-to-earn mechanics on the TON blockchain. The platform allows users to collect, trade, and utilize 3D NFT models in various gaming activities. Players can sell their collected models on the marketplace for $VOXL tokens or $TON, creating multiple revenue streams within the ecosystem.",
     "image": "https://raw.githubusercontent.com/rickverse100/Synapse/refs/heads/main/Init/voxl.png",
-    "symbol": "VOXL",
+    "symbol": "VOXEL",
     "decimals": "9"
 }
