@@ -1,0 +1,7 @@
+{
+    "name": "AFK Pepe",
+    "description": "Don't Disturb Pepe. He AFK.",
+    "image": "https://raw.githubusercontent.com/rickverse100/Synapse/refs/heads/main/Init/afk-pepe.png",
+    "symbol": "AFK",
+    "decimals": "9"
+}
